@@ -1,0 +1,7 @@
+-> Aula Versionamento de Código
+
+Utilizado para que os desenvolvedores criem branches com correções e/ou funcionalidades de forma segura, sem interferir na versão principal. Esses branches são adicionados ao projeto principal após prontaos. 
+
+Git é um sistema de controle de versão distribuído.
+
+Github é uma plataforma de hospedagem de código para controle de versão com Git, e colaboração. 
